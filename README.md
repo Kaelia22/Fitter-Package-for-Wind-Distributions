@@ -1,4 +1,4 @@
-# Fitter-Package-for-Wind-Distributions
+# Fitter Package for Wind Distributions
 
 ## Description of Repository
 
